@@ -163,9 +163,9 @@ Currently grinding **Data Structures & Algorithms** with a focus on real intervi
 
 <div align="center">
 
-![Balamurugan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pavinbala729&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Balamurugan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bala-M-14&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavinbala729&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bala-M-14&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bala-M-14&theme=tokyonight&hide_border=true)
 
