@@ -167,7 +167,7 @@ Currently grinding **Data Structures & Algorithms** with a focus on real intervi
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavinbala729&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pavinbala729&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bala-M-14&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -180,7 +180,7 @@ Currently grinding **Data Structures & Algorithms** with a focus on real intervi
 [![Email](https://img.shields.io/badge/Email-Pavinbala729@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Pavinbala729@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Balamurugan_M-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/balamurugan-m)
 [![GitHub](https://img.shields.io/badge/GitHub-Pavinbala729-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pavinbala729)
-[![Phone](https://img.shields.io/badge/Phone-+91_8825900524-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918825900524)
+
 
 </div>
 
