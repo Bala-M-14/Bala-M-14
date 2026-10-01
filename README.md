@@ -12,11 +12,11 @@
 
 ---
 
-## 👋 Hey, I'm Pavin
+## 👋 Hey, I'm 
 
 ```python
 me = {
-    "name":       "Balamurugan M (Pavin)",
+    "name":       "Balamurugan M",
     "location":   "Chennai, India 🇮🇳",
     "degree":     "BE – Computer Science & Engineering @ SA Engineering College",
     "currently":  ["30-Day Applied AI + Automation Roadmap", "DSA grind", "Next.js School Website"],
